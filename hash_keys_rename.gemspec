@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Oleg Sviridovitch"]
   spec.email         = ["oleg.sviridovitch@gmail.com"]
   spec.summary       = %q{append ability to rename hash keys deeply}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/olsv/hash_keys_rename"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
